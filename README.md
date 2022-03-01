@@ -1,6 +1,6 @@
 # user-presence-app
 
-Demo: https://user-presence-au-25.herokuapp.com/app
+Demo: https://user-presence-by-veeresh.herokuapp.com/app
 
 ---
 Presence service app, similar to that in google docs, which shows people that are
