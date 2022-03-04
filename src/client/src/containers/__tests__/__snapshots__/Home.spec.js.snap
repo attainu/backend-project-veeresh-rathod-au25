@@ -1,3 +1,0 @@
-// Jest Snapshot v1, https://goo.gl/fbAQLP
-
-exports[`CONTAINER: src/containers/Home.js Socket doesn't exist should match snapshot 1`] = `ShallowWrapper {}`;
