@@ -41,12 +41,9 @@ In building this Foodie web app, we will majorly use:
 • Node.js – A JavaScript runtime.
 • Express js framework.
 • Template Engine – ES6.
-• Mongo dB Atlas, a cloud based No-SQL database, for database handling.
-• Bcrypt.js: library to help you hash passwords.
+• Mongo dB, a cloud based No-SQL database, for database handling.
 • Passport: It is authentication middleware for Node.js .
 • Socket.io: enables real-time bidirectional event-based communication.
-• Noty: It is a notification library that makes it easy to create alert - success - error - warning - information - confirmation
-• Moment.js: it is used for formatting Date and time.
 HEROKU
 
 ---
