@@ -36,7 +36,7 @@ PURPOSE
 * To track the time spent on viewing the document. 
 
 TECHNOLOGIES USED
-In building this Foodie web app, we will majorly use:
+In building this web app, we will majorly use:
 
 • Node.js – A JavaScript runtime.
 • Express js framework.
